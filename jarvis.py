@@ -79,7 +79,7 @@ def  ai(prompt):
 def email(to):
     #Function for sending Emails
     try:
-        s_mail='abhinavmaurya2464@gmail.com' #Sender's Email address 
+        s_mail='' #Sender's Email address 
         speak("Tell the subject")
         sub=command().title() #Subject for the Email
         speak("Tell the body of the email")
