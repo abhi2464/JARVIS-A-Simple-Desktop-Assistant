@@ -1,0 +1,1 @@
+api_weather="" #Your Open Weather API Key
